@@ -105,7 +105,7 @@ iii. **Distribución visual**:
 ### Evidencias
 
 - [Notebook 1](./01_Fundamentos_NumPy_Pandas/01_Fundamentos_NumPy_Pandas.ipynb)
-- <img src="./01_Fundamentos_NumPy_Pandas/images/01_iris_petal_ratio.png" alt="01_iris_petal_ratio02" width="800"/>
+- <img src="./01_Fundamentos_NumPY_PANDAS/images/01_iris_petal_ratio.png" alt="01_iris_petal_ratio02" width="800"/>
 
 La variable petal_ratio permite observar de forma clara las diferencias entre especies. La distribución presenta un sesgo hacia la izquierda, con la mayoría de valores concentrados entre 2 y 5, correspondientes a especies como versicolor y setosa, mientras que algunos valores extremos, mayores a 10 están asociados a virginica, lo que indica que esta última especie tiene pétalos más alargados proporcionalmente a su ancho. Esta nueva variable facilita el análisis discriminativo entre clases y puede resultar útil para tareas de clasificación supervisada.
 
